@@ -1,23 +1,15 @@
 import type { Metadata } from 'next'
-import { Inter } from 'next/font/google'
 import './globals.css'
 
-const inter = Inter({ subsets: ['latin'] })
-
 export const metadata: Metadata = {
-  title: 'Handyman AI Assistant',
-  description: 'AI-powered chatbot for handyman professionals',
-  viewport: 'width=device-width, initial-scale=1, maximum-scale=1',
+  title: 'Captain Claw - 20th Anniversary Web Edition',
+  description: 'A browser-based recreation of the classic Captain Claw platformer',
 }
 
-export default function RootLayout({
-  children,
-}: {
-  children: React.ReactNode
-}) {
+export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
     <html lang="en">
-      <body className={inter.className}>{children}</body>
+      <body>{children}</body>
     </html>
   )
 }
