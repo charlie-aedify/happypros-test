@@ -1,0 +1,148 @@
+{
+  "frames": {
+    "Jump_0": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 91,
+        "h": 102
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 91,
+        "h": 102
+      },
+      "sourceSize": {
+        "w": 91,
+        "h": 102
+      }
+    },
+    "Jump_1": {
+      "frame": {
+        "x": 105,
+        "y": 0,
+        "w": 83,
+        "h": 85
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 83,
+        "h": 85
+      },
+      "sourceSize": {
+        "w": 83,
+        "h": 85
+      }
+    },
+    "Jump_2": {
+      "frame": {
+        "x": 210,
+        "y": 0,
+        "w": 72,
+        "h": 78
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 72,
+        "h": 78
+      },
+      "sourceSize": {
+        "w": 72,
+        "h": 78
+      }
+    },
+    "Jump_3": {
+      "frame": {
+        "x": 307,
+        "y": 0,
+        "w": 78,
+        "h": 87
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 78,
+        "h": 87
+      },
+      "sourceSize": {
+        "w": 78,
+        "h": 87
+      }
+    },
+    "Jump_4": {
+      "frame": {
+        "x": 400,
+        "y": 0,
+        "w": 94,
+        "h": 89
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 94,
+        "h": 89
+      },
+      "sourceSize": {
+        "w": 94,
+        "h": 89
+      }
+    },
+    "Jump_5": {
+      "frame": {
+        "x": 502,
+        "y": 0,
+        "w": 89,
+        "h": 90
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 89,
+        "h": 90
+      },
+      "sourceSize": {
+        "w": 89,
+        "h": 90
+      }
+    },
+    "Jump_6": {
+      "frame": {
+        "x": 603,
+        "y": 0,
+        "w": 87,
+        "h": 91
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 87,
+        "h": 91
+      },
+      "sourceSize": {
+        "w": 87,
+        "h": 91
+      }
+    }
+  },
+  "meta": {
+    "image": "Jump.png",
+    "scale": "1"
+  }
+}
