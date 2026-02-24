@@ -36,7 +36,7 @@ export class PreloadScene extends Phaser.Scene {
     this.load.image('soldier_walk2', '/assets/art/soldier/FRAME052.png')
 
     // Audio
-    this.load.audio('music1', '/assets/sounds/Level_1_Music_Remastered.mp3')
+    this.load.audio('music1', '/assets/sounds/jingle_bells.wav')
     this.load.audio('coin_sfx', '/assets/sounds/fx/COIN.WAV')
   }
 
